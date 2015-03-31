@@ -3,3 +3,10 @@ pwd 显示当前路径；
 mkdir 创建本地版本库目录：$mkdir name
 
 git init 将版本库目录变成可管理库：$git init
+
+git add 添加文件到暂存区：$git add 文件名(加扩展名)
+
+git commit 保存git add添加的文件到库：$git commit -m "保存时要加的备注语"
+
+git status 查看仓库当前状态：$git status
+
