@@ -19,5 +19,7 @@ git reset 回退版本:
 回退到上一版本：$git reset --hard HEAD^
 回退到指定版本号的版本：$git reset --hard 版本号（只需前几位）
 
+cat 查看文件内容：$cat 文件名(加扩展名)
+
 
 
