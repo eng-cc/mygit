@@ -18,12 +18,15 @@ git log 查看库中的提交日志：$git log
 git reset 回退版本:
 回退到上一版本：$git reset --hard HEAD^
 回退到指定版本号的版本：$git reset --hard 版本号（只需前几位）
+把git add后添加到暂存区的内容删掉：$git reset HEAD 文件名(加扩展名)
 
 cat 查看文件内容：$cat 文件名(加扩展名)
 
 git diff HEAD 查看工作区和版本库的差别：$git diff HEAD -- 文件名(加扩展名)
 
 git checkout 丢弃工作区的新添加内容：$git checkout -- 文件名(加扩展名)
+
+
 
 
 
