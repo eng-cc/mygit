@@ -1,0 +1,5 @@
+pwd 显示当前路径；
+
+mkdir 创建本地版本库目录：$mkdir name
+
+git init 将版本库目录变成可管理库：$git init
