@@ -10,3 +10,14 @@ git commit 保存git add添加的文件到库：$git commit -m "保存时要加�
 
 git status 查看仓库当前状态：$git status
 
+git diff 查看文件与之前的不同 $git diff 文件名(加扩展名)
+
+git log 查看库中的提交日志：$git log
+加--pretty=oneline参数：$git log --pretty=oneline
+
+git reset 回退版本:
+回退到上一版本：$git reset --hard HEAD^
+回退到指定版本号的版本：$git reset --hard 版本号（只需前几位）
+
+
+
