@@ -36,6 +36,8 @@ git remote add origin 添加github地址：$git remote add origin 地址
 
 git push 将本地库推送到github：$git push -u origin master
 
+git clone 克隆远程库到本地：$git clone 地址
+
 
 
 
