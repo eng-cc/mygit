@@ -38,6 +38,18 @@ git push 将本地库推送到github：$git push -u origin master
 
 git clone 克隆远程库到本地：$git clone 地址
 
+创建分支：$git branch 分支名
+跳转到分支：$git checkout 分支名
+创建并转到新分支：$git checkout -b 分支名
+
+查看所有分支：$git branch 
+
+从分支回到上级：$git checkout 上级名
+
+合并指定分支到当前分支：$git merge 要合并的分支名
+
+
+
 
 
 
