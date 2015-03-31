@@ -47,6 +47,22 @@ git clone 克隆远程库到本地：$git clone 地址
 从分支回到上级：$git checkout 上级名
 
 合并指定分支到当前分支：$git merge 要合并的分支名
+禁用快速合并：$git merge --no--ff -m"备注信息"
+
+查看分支合并状态：git log --graph --pretty=oneline --abbrev-commit
+
+删除分支：$git branch -d 分支名
+强制删除未合并分支：$git branch -D 分支名
+
+冻结当前分支个工作区：$git stash
+恢复冻结的工作区：$git stash apply
+删除已恢复的冻结区：$git stash drop
+恢复并删除冻结区：$git stash pop
+
+
+
+
+
 
 
 
