@@ -33,6 +33,7 @@ rm 删除文件:
 创建ssh key：$ ssh-keygen -t rsa -C "第一次使用git时输入的email"
 
 git remote add origin 添加github地址：$git remote add origin 地址
+/*使用ssh地址在以后提交时不用输账号密码,https要输*/
 
 git push 将本地库推送到github：$git push -u origin master
 
