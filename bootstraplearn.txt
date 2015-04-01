@@ -1,0 +1,13 @@
+下载bootstrap包
+
+html 中链接bootstrap.js , jquery  ,  bootstrap.css文件（先加jquery)
+
+十二格布局class：
+.col-xx-oo
+xx可以选用的有
+lg: large
+md: middle
+sm: small
+oo可选1--12
+
+
