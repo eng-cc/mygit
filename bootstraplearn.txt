@@ -10,4 +10,25 @@ md: middle
 sm: small
 oo可选1--12
 
+.row用来嵌套.col-xx-oo
+用.row-fluid嵌套可实现流式网格布局
+
+添加左边外距：
+.col-xx-offset-oo
+xx同上
+oo为左边距的数量级，可选1--12
+
+.container设置一个固定宽度布局
+.container-fluid为它的流式布局
+
+添加<meta name="viewport" content="width=device-width, initial-scale=1.0">可启用响应式布局
+
+突显段落文字可以添加一个 .lead 类
+字段中可用small标签包裹不想突显的内容
+
+strong标签加粗
+em斜体
+
+
+
 
