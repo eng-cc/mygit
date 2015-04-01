@@ -29,6 +29,16 @@ oo为左边距的数量级，可选1--12
 strong标签加粗
 em斜体
 
+<p class="text-left">左对齐的文字</p>
+<p class="text-center">居中的文字</p>
+<p class="text-right">右对齐的文字</p>
 
+abbr标签嵌套缩略语：<abbr title="美国电视剧">美剧</abbr>
+加.initiilism类会用较小的字号现实隐藏内容
+
+.pull-xx 对其方式
+xx：left or right
+
+.unstyled去掉列表默认样式
 
 
