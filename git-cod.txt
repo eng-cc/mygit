@@ -78,4 +78,4 @@ git clone 克隆远程库到本地：$git clone 地址
              
 出现<END>标记且无法输入：按q
 
-end
+end.
